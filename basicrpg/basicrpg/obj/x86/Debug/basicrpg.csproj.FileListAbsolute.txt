@@ -1,0 +1,28 @@
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\basicrpg.exe
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\basicrpg.pdb
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.dll
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.xml
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\obj\x86\Debug\basicrpg.csprojResolveAssemblyReference.cache
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\obj\x86\Debug\basicrpg.exe
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\obj\x86\Debug\basicrpg.pdb
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\basicrpg.exe.config
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\input_handler lib.dll
+C:\Users\dexter\Dropbox\C# code\My Monogame Tutorial 1\basicrpg\basicrpg\bin\Windows\Debug\input_handler lib.pdb
